@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="8/11/2020 6:03:07 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="ZEMED"
+  DTS:CreatorName="ZEMED\17042"
+  DTS:DTSID="{CC160AC5-0F8F-4832-8011-F2AAB6C3232C}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.2000.123"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{3BDE4C4A-FA91-45C8-9824-0BEE9FC41467}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
